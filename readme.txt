@@ -1,4 +1,6 @@
 welcome to my project!
 
-Author: Sush Vaijinath Solapure
+
+Author: Sush ashu Solapure
+
 Twitter: @sushashu
