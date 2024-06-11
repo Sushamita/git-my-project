@@ -1,4 +1,4 @@
-welcome to my project!
+ welcome to the Git-my project!
 
 
 Author: Sush ashu Solapure
